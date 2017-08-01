@@ -1,0 +1,8 @@
+/home/hermitwife/cojo/dotnetcore/fundamentals/human/bin/Debug/netcoreapp1.1/human.deps.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/human/bin/Debug/netcoreapp1.1/human.runtimeconfig.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/human/bin/Debug/netcoreapp1.1/human.runtimeconfig.dev.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/human/obj/Debug/netcoreapp1.1/human.AssemblyInfo.cs
+/home/hermitwife/cojo/dotnetcore/fundamentals/human/bin/Debug/netcoreapp1.1/human.dll
+/home/hermitwife/cojo/dotnetcore/fundamentals/human/bin/Debug/netcoreapp1.1/human.pdb
+/home/hermitwife/cojo/dotnetcore/fundamentals/human/obj/Debug/netcoreapp1.1/human.dll
+/home/hermitwife/cojo/dotnetcore/fundamentals/human/obj/Debug/netcoreapp1.1/human.pdb
