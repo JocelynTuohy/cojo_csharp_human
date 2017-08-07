@@ -2,7 +2,7 @@ using System;
 
 namespace human
 {
-    class Human
+    public class Human
     {
         public string name;
         public int strength;
@@ -31,6 +31,14 @@ namespace human
             Human victim = subject as Human;
             victim.health -= strength * 5;
           }
+        }
+        public void DisplayInfo()
+        {
+          Console.WriteLine($"Name: {this.name}");
+          Console.WriteLine($"Strength: {this.strength}");
+          Console.WriteLine($"Intelligence: {this.intelligence}");
+          Console.WriteLine($"Dexterity: {this.dexterity}");
+          Console.WriteLine($"Health: {this.health}");
         }
     }
 }
